@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+} 
+ nav{
+    background-color: darkblue;
+    color: white;
+    display: flex;
+    padding: 20px;
+    align-content: center;
+    justify-content: space-between;
+    
+}
+nav ul li{
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px;
+}
+header{
+    background-color: yellowgreen;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.im img{
+    
+    border-radius:50%; 
+}
+
+header h1{
+    margin: 0;
+}
+.portfolio{
+    text-align: center;
+    color: hsl(240, 100%, 50%);
+    padding: 20px;
+    height: auto;
+    
+
+}
+.all{
+    display: flex;
+    flex-wrap: wrap;
+}
+.amal{
+    display: flex;
+    height: auto;
+}
+.sara{
+    display: flex;
+    height: auto;
+
+}
+.ig{
+    width: 33.33%;
+    margin: 5px;
+    height: auto;  
+}
+.ig img{
+    max-width: 100%;
+}
+ 
+.about{
+    background-color: chartreuse;
+    color:white;
+    text-align:center;
+    padding: 5px 10px ;
+    
+}
+.con{
+    width: 500;
+    overflow:hidden;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.pr{
+    width: 200px;
+    padding: 20px;
+    text-align:left;
+   float: left;
+   margin-right:10px;
+}
+.pr1{
+    width:200px;
+    padding:20px;
+    text-align:left;
+    float: right;
+    margin-left: 10px;
+}
+.contact{
+    padding: 20px;
+}
+.contact h2{
+text-align: center;
+}
+.form {
+    outline: none;
+    border-bottom: 1px solid #000;
+}
+.bottun{background-color: green;}
+.contact form table td input{
+    border: 0;
+   /* outline: 0;*/
+    border-bottom: 2px;
+}
+.logo {
+    text-align: center;
+}
+.fot{
+    width: 200px;
+    height: 200px;
+    margin:0 150px;
+
+}
+footer{
+    background-color: cadetblue;
+    display: flex;
+    padding: 10px;
+}
+i{
+    text-align: center;
+}

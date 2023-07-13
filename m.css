@@ -1,0 +1,47 @@
+nav ,header{
+    background-color: red;
+}
+nav ul li:hover{
+    background-color: white;
+}
+nav ul li{
+    display: inline;
+    margin: 10px;
+}
+header{ 
+    text-align: center;
+    color:white
+
+}
+header button:hover{
+    color: black;
+}
+.saction{
+    display: flex;
+}
+.saction1{
+    display: flex;
+    background-color: cadetblue;
+}
+footer{
+    background-color: grey;
+    text-align: center;
+    height: 30px;
+}
+.saction2{
+    margin: 10px;
+}
+@media(max-width:350px){
+  .saction{
+      display: block;
+
+  }  
+  .saction1{
+      display: block;
+
+  }
+
+    
+}
+
+

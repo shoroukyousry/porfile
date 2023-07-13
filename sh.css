@@ -1,0 +1,38 @@
+.main{
+    background-color:gray;
+}
+header{
+    text-align: center;
+
+}
+ nav{
+    background-color: black;
+    color: white;
+    display: flex;
+    
+
+}
+nav li{
+    display: inline;
+    margin: 10px;
+
+}
+
+/*.a {
+    justify-content: end;
+}*/
+section{
+    display: flex;
+}
+article{
+    width: 70%;
+
+}
+aside{
+    width: 30%;
+}
+.s{
+    background-color:white;
+}
+
+

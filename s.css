@@ -1,0 +1,31 @@
+header{
+    background-color: blueviolet;
+    color: white;
+    height: 70px;
+    text-align: center;
+    margin: 0;
+}
+main{
+    display: flex;
+    margin: 0;
+}
+nav{
+    background-color: pink;
+    width: 30%;
+}
+article{
+    background-color: turquoise;
+    width: 70%;
+    display: flex;
+}
+section{
+    background-color: yellow;
+    width: 200px;
+    margin: 10px;
+}
+footer{
+    background-color: blueviolet;
+    height: 30px;
+    text-align: center;
+    color: white;
+}

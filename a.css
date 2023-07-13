@@ -1,0 +1,33 @@
+ header{
+    background-color:violet;
+    color: white;
+    height: 70px;
+    font-size: 30px;
+}
+footer{
+    background-color:rgb(37, 37, 230);
+    color: white;
+    height: 40px;
+    text-align: center;
+
+}
+main{
+
+    display: flex;
+    justify-content: space-around;
+}
+.a{
+    color: white;
+    background-color: blue;
+    height: 30px;
+    width: 150px;
+    
+}
+article{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    
+    margin: 30px;
+    padding:20px;
+}
